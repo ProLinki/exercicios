@@ -10,7 +10,7 @@ public class UsandoOperadorE {
         boolean i = true;
         boolean j = true;
 
-        /*Utilizando o simbolo chamado de Écomercial & que representa a expressão E, retorna true se todas as espressões espressão forem verdadeiras.*/
+        /*Utilizando o simbolo chamado de Écomercial & que representa a expressão E, retorna true se todas as expressões forem verdadeiras.*/
         if ((i) & (j)) {
             System.out.println("True");
         } else {
